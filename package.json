@@ -1,0 +1,31 @@
+{
+  "name": "maplestoryhelper",
+  "version": "0.0.0",
+  "description": "MapleStory 의 데이터를 Parsing 할 수 있는 Node Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HIT-N-RUN/MapleStoryHelper.git"
+  },
+  "keywords": [
+    "maplestory",
+    "nexon",
+    "parsing"
+  ],
+  "contributors": [
+    "Hyeonbae Lee <hyeon5727@gmail.com> (https://github.com/GGULBAE)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HIT-N-RUN/MapleStoryHelper/issues",
+    "email": "hyeon5727@gmail.com"
+  },
+  "homepage": "https://github.com/HIT-N-RUN/MapleStoryHelper#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module"
+}
